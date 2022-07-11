@@ -1,0 +1,1 @@
+Github Gist allows GitHub users to share pieces of code or other notes. GitHub Flow is a lightweight, branch-based workflow for regularly updated deployments. GitHub Pages are static webpages to host a project, pulling information directly from an individual's or organization's GitHub repository.
